@@ -51,13 +51,3 @@ R0"Hello, World!" == "Hello, World!"
 R4"Testing 1 2 3 testing" == "Xiwxmrk 1 2 3 xiwxmrk"
 R13"abcdefghijklmnopqrstuvwxyz" == "nopqrstuvwxyzabcdefghijklm"
 ```
-
-## Source
-
-Wikipedia [https://en.wikipedia.org/wiki/Caesar_cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
-
-## Version compatibility
-This exercise has been tested on Julia versions >=1.0.
-
-## Submitting Incomplete Solutions
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
